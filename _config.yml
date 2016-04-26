@@ -63,3 +63,7 @@ assets:
   cache: false
   gzip: [ text/css, application/javascript ]
   debug: false
+
+jekyll-crosspost_to_medium:
+  enabled: true
+  status: draft

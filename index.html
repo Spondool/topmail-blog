@@ -17,7 +17,7 @@ layout: base
     {% for post in paginator.posts %}
     <section class="post_summary">
       <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
+      <p>"{{ post.excerpt }}"</p>
       <div class="meta">
         <address>{{ post.author.name }}</address> &mdash;
         <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%b %d, %Y" }}">{{ post.date | date: "%b %d, %Y" }}</time> &mdash;
