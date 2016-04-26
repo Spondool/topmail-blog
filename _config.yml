@@ -1,26 +1,26 @@
 info:
   # Blog Information
-  title:        "Will Koehler"
-  subtitle:     "Independent web developer living in Columbus, OH"
-  cover_image:  short-north-columbus-oh.jpg
-  cover_image_caption: "Short North, Columbus, OH. Photo: Pineapple XVI"
-  about_image:  goodale-park-columbus-oh.jpg
-  about_image_caption: "Goodale Park, Columbus, OH. Photo: Dave K."
-  logo:         logo.png
+  title:        "Topmail"
+  subtitle:     "Private Secure Email"
+  cover_image:  top-screen.png
+  cover_image_caption: ""
+  about_image:  top-screen.png
+  about_image_caption: ""
+  logo:         topmail-logo-large.png
   
   # Social links
-  # facebook:     sendtoinc
-  twitter:      wckoehler
-  github:       willkoehler
+  facebook:     topmail
+  twitter:      topsecureemail
+  #github:       
   # gplus:        '101183822199340201470'
   
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
-    shortname:  koehlerblog
+    shortname:  topmail 
   
   # Google Analytics tracking ID. Leave blank to disable tracking
-  google-analytics-id: 'UA-54124306-1'
+  google-analytics-id: 'UA-48883226-2'
   
   # Sharing settings
   sharing:
@@ -37,9 +37,9 @@ info:
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
 # Root URL where the site will be published
-url:         http://willkoehler.net
+url:         https://blog.topmail.com
 
-# host 0.0.0.0 allows us to access site via sapphire.local or localhost or 127.0.0.1
+# host 0.0.0.0 allows us to access site via localhost or 127.0.0.1
 host: 0.0.0.0
 
 paginate:             10
