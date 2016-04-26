@@ -36,4 +36,4 @@ All ads are targeted ads. Every ad, even if you don’t see it, has been tailore
 
 That’s why, no matter what technical wizardry Google come up with, your Gmail emails will never be truly private. And that applies to every email service provider who serves ads.
 
-So, increasingly a lot of sane people do pay for email. Which means I get to keep my job. And keep quiet at parties...
+So, increasingly a lot of sane people do pay for email. Which means I get to keep my job. And keep quiet at parties.
