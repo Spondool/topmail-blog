@@ -8,7 +8,7 @@ subtitle: "A simple way people can tell where you're currently located"
 cover_image: mapscreen.png
 cover_image_caption: "Insecure Email Headers"
 
-excerpt: "...every email contains information about the IP address of the original sender. That IP address can be used to get a pretty precise location. Combine that with the near instant delivery of email and you might as well be wearing a tracking tag like someone on release from prison."
+excerpt: "...every email contains some information about the IP address of the sender. That IP address can be used to get a pretty precise location. Combine that with the near instant delivery of email and you might as well be wearing a tracking tag like someone on release from prison."
 
 author:
   name: Daniel Caffrey
