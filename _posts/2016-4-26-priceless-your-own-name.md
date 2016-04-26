@@ -7,7 +7,7 @@ subtitle: "Ever been frustrated at not getting the email address you wanted?"
 cover_image: mad-email-address.png
 cover_image_caption: "Poorly chosen email addresses"
 
-excerpt: ""
+excerpt: "...but wouldn't it just be nice, for once, to be able to get your own name, or the name of your favourite band, celebrity without a string of mad numbers after it?"
 
 author:
   name: Ed Byrne
