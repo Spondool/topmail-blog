@@ -31,6 +31,6 @@ So how does a normal, even non-technical person, find out where someone is using
 * <b>How to get the email headers</b>: http://www.iptrackeronline.com/how-to-extract-email-headers.php
 * <b>Geo-location analysis (with maps) of email headers</b>: http://www.iptrackeronline.com/email-header-analysis.php
 
-It's important to note I don't advocate using this kind of service and I think their lack of a privacy policy, or any clear indication of what they do with the information they are given, means that it can't be recommended. Nonetheless the site itself makes the message clear. It's also important to keep in mind that Gmail (for example) often also removes this information, but <a href='https://support.google.com/mail/answer/26903?hl=en'>NOT ALWAYS</a>.
+It's important to note I don't advocate using this kind of service and I think their lack of a privacy policy, or any clear indication of what they do with the information they are given, means that it can't be recommended. Nonetheless the site itself makes the message clear. It's also important to keep in mind that Gmail (for example) often also removes this information, but <a href='https://support.google.com/mail/answer/26903?hl=en' target="_blank">NOT ALWAYS</a>.
 
 <a href='https://www.topmail.com'>Topmail</a> is different from most email providers, since we always strip out that identifying information from emails as they are sent. We think, if email was being designed from scratch today, that's exactly how any sensible person would do it.
