@@ -2,6 +2,7 @@
 layout: post
 last-modified: '2016-04-25T12:00:00'
 crosspost_to_medium: true
+homepage: true
 
 title: "How other people can see where you are by looking at your emails"
 subtitle: "A simple way people can tell where you're currently located"

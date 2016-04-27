@@ -1,6 +1,7 @@
 ---
 layout: post
 last-modified: '2016-04-25T12:00:00'
+homepage: true
 
 title: "Why would anyone pay for email?"
 subtitle: "What kind of evil Mastermind would ask people to pay for email?"

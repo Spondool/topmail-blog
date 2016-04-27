@@ -22,6 +22,7 @@
    <updated>{% if post.last-modified %}{{post.last-modified}}{% else %}{{ post.date | date_to_xmlschema }}{% endif %}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
+   {% if post.homepage %} <category term="homepage"></category> {% endif %}
  </entry>
  {% endfor %}
  
