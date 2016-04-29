@@ -20,7 +20,7 @@ info:
     shortname:  topmail 
   
   # Google Analytics tracking ID. Leave blank to disable tracking
-  google-analytics-id: 'UA-48883226-2'
+  google-analytics-id:	UA-48883226-3
   
   # Sharing settings
   sharing:
