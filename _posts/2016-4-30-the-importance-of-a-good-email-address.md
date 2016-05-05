@@ -17,7 +17,7 @@ author:
   bio: Technical Lead at Topmail.com
   image: dcaffrey.png  
 ---
-The importance of having a good email address Do you think when we started Topmail we considered calling it LameDuck44 instead? That’s right: we didn’t. In fact, the domain topmail.com is one of the most important things we offer as part of our service. A simple, easy to understand domain name that has the word mail in it.
+Do you think when we started Topmail we considered calling it LameDuck44 instead? That’s right: we didn’t. In fact, the domain topmail.com is one of the most important things we offer as part of our service. A simple, easy to understand domain name that has the word mail in it.
 
 Weird change of topic: _ed@topmail.com_ is available (as of writing today). _ed999@topmail.com_ is not (OK I booked that one to make a point, but there really are lots of edXXX’s@topmail.com).
 
