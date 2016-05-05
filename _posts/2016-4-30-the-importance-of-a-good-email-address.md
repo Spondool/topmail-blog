@@ -7,7 +7,7 @@ homepage: true
 title: "The importance of a good email address"
 subtitle: "Science says the wrong email address can hurt your job - and your love life"
 cover_image: choose-wisely.jpg
-cover_image_caption: "A good email address"
+cover_image_caption: "A good email address "
 
 excerpt: "If your email address is too long, too confusing or too hard to understand in conversation, then people are going to have trouble reaching you...In addition the longer, more complex or bizarre your email gets, the more likely others are to view it as spammy when they see it in their inbox."
 
