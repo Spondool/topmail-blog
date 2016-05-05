@@ -65,5 +65,5 @@ assets:
   debug: false
 
 jekyll-crosspost_to_medium:
-  enabled: false
+  enabled: true
   status: draft
