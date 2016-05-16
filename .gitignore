@@ -7,3 +7,6 @@
 
 # Ignore OSX files like:
 .DS_Store
+
+# Ignore temp files for medium cross post
+/.jekyll-crosspost_to_medium
