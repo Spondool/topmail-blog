@@ -8,7 +8,7 @@ subtitle: "A list of good reasons you should consider paying for email"
 cover_image: paid-email.jpg
 cover_image_caption: "Paying for email"
 
-excerpt: "Did you know that when you send an email through Gmail, for example, you <b>'give Google (and those we work with) a worldwide license to use, host, store, reproduce, modify, create derivative works...communicate, publish, publicly perform, publicly display and distribute such content'</b>? At Topmail your data remains your data at all times and we will NEVER use it in any other context whatsoever."
+excerpt: "Did you know that when you send an email through Gmail, for example, you <span class='color: red;'>'give Google (and those we work with) a worldwide license to use, host, store, reproduce, modify, create derivative works...communicate, publish, publicly perform, publicly display and distribute such content'</span>? At Topmail your data remains your data at all times and we will NEVER use it in any other context whatsoever."
 
 author:
   name: Daniel Caffrey
