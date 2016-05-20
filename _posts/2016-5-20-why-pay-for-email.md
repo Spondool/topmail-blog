@@ -22,7 +22,7 @@ There are many free email providers. Companies such as Google, Yahoo and Microso
 
 *  <b>Human Support</b>: Ever wished you could communicate with an actual human being at your email provider? Wish no more. All your support interactions with Topmail are conducted with a real human being. No automation and no scripts. All our support representatives have the knowledge they need at their fingertips to help you with your specific problem. 
 
-*  <b>Data Protection</b>: Did you know that when you send an email through Gmail, for example, you <b>"give Google (and those we work with) a worldwide license to use, host, store, reproduce, modify, create derivative works...communicate, publish, publicly perform, publicly display and distribute such content"</b>? At Topmail your data remains your data at all times and we will NEVER use it in any other context whatsoever.
+*  <b>Data Protection</b>: Did you know that when you send an email through Gmail, for example, you <span style='color: red;'>"give Google (and those we work with) a worldwide license to use, host, store, reproduce, modify, create derivative works...communicate, publish, publicly perform, publicly display and distribute such content"</span>? At Topmail your data remains your data at all times and we will NEVER use it in any other context whatsoever.
 
 *  <b>Privacy legislation / jurisdiction</b>: Topmail is regulated by powerful privacy regulation that protects your data from unwarranted intrusion. We also implement a strict privacy policy. As our service is based in Canada, we are also subject to pioneering legislation in this area.
 
