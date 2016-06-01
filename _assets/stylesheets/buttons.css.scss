@@ -22,6 +22,11 @@ a {
     }
  
     &.btn-cta {
+      display: none;
+      @media screen and (min-width: 600px) {
+        float: right;
+        display: inline;
+      }
       border-radius: 5px;
       font-weight: 700;
       text-transform: uppercase;
