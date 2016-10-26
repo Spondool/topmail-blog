@@ -15,9 +15,9 @@ author:
   bio: Head of Marketing, Topmail
   image: edbyrne.jpg
 ---
-<p>If you are one of the 800 million active users of Yahoo email users then it could be about time that you decided to switch to another provider ASAP. Over the past few weeks it has been revealed that [Yahoo allowed US government agencies to scan and view ALL of their user’s emails and content](http://europe.newsweek.com/why-did-yahoo-allow-government-scan-emails-506852?rm=eu). In another blow to users, Yahoo have since [decided to disable email forwarding from their accounts] (https://techcrunch.com/2016/10/10/yahoo-makes-it-difficult-to-leave-its-service-by-disabling-email-forwarding/). This strategy has been see as a mechanism to stop existing users of Yahoo defecting to other more privacy focused platforms such as [Topmail] (https://www.topmail.com).</p>
+If you are one of the 800 million active users of Yahoo email users then it could be about time that you decided to switch to another provider ASAP. Over the past few weeks it has been revealed that [Yahoo allowed US government agencies to scan and view ALL of their user’s emails and content](http://europe.newsweek.com/why-did-yahoo-allow-government-scan-emails-506852?rm=eu). In another blow to users, Yahoo have since [decided to disable email forwarding from their accounts](https://techcrunch.com/2016/10/10/yahoo-makes-it-difficult-to-leave-its-service-by-disabling-email-forwarding/). This strategy has been see as a mechanism to stop existing users of Yahoo defecting to other more privacy focused platforms such as [Topmail](https://www.topmail.com).
 
-<p>With many users now looking for a suitable and safe alternative to Yahoo, we have put together 5 reasons why you should consider Topmail as your new private & secure email provider. </p>
+With many users now looking for a suitable and safe alternative to Yahoo, we have put together 5 reasons why you should consider Topmail as your new private & secure email provider. 
 
 <h3>Human Support</h3>
 
